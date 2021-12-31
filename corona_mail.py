@@ -12,8 +12,8 @@ print('Composing Email...')
 
 SERVER = 'smtp.gmail.com'
 PORT = 587
-FROM = 'spyroy@gmail.com'
-TO = 'spyroy@gmail.com'
+FROM = 'test@gmail.com'
+TO = 'test@gmail.com'
 PASS = '****'
 
 msg = MIMEMultipart()
